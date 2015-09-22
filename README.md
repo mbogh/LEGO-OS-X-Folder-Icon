@@ -35,3 +35,6 @@ Replace **/path/to/folder/** with the target folder.
 
 ## License
 This is released under an MIT license. See LICENSE for more information.
+
+## Credits
+Thanks to [manyk](http://manyk.deviantart.com/art/Yosemite-Folder-Icon-Templates-With-Export-Action-503629237) for the Photoshop template for custom folder icons.
